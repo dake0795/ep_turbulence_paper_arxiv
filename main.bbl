@@ -1,0 +1,379 @@
+\begin{thebibliography}{62}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
+  \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
+  \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
+
+\bibitem[Abel {\em et~al.\/}(2013)Abel, Plunk, Wang, Barnes, Cowley, Dorland \&
+  Schekochihin]{Abel2013}
+{\sc \au{Abel, I.~G.}, \au{Plunk, G.~G.}, \au{Wang, E.}, \au{Barnes, M.},
+  \au{Cowley, S.~C.}, \au{Dorland, W.} \& \au{Schekochihin, A.~A.}} \yr{2013}
+  \at{Multiscale gyrokinetics for rotating tokamak plasmas: fluctuations,
+  transport and energy flows}.  \jt{Reports on Progress in Physics}
+  \bvol{76}~(11),  \pg{116201}.
+
+\bibitem[Ba{\~n}{\'o}n~Navarro {\em et~al.\/}(2011)Ba{\~n}{\'o}n~Navarro,
+  Morel, Albrecht-Marc, Merz, G\"orler, Jenko \& Carati]{BanonNavarro2011}
+{\sc \au{Ba{\~n}{\'o}n~Navarro, A.}, \au{Morel, P.}, \au{Albrecht-Marc, M.},
+  \au{Merz, F.}, \au{G\"orler, T.}, \au{Jenko, F.} \& \au{Carati, D.}}
+  \yr{2011}  \at{Free energy cascade in gyrokinetic turbulence}.  \jt{Phys.
+  Rev. Lett.}  \bvol{106},  \pg{055001}.
+
+\bibitem[Ba{\~n}{\'o}n~Navarro {\em et~al.\/}(2016)Ba{\~n}{\'o}n~Navarro, Teaca
+  \& Jenko]{BanonNavarro2016}
+{\sc \au{Ba{\~n}{\'o}n~Navarro, A.}, \au{Teaca, B.} \& \au{Jenko, F.}}
+  \yr{2016}  \at{The anisotropic redistribution of free energy for gyrokinetic
+  plasma turbulence in a {Z}-pinch}.  \jt{Phys. Plasmas}  \bvol{23},
+  \pg{042301}.
+
+\bibitem[Batchelor(1969)]{Batchelor1969}
+{\sc \au{Batchelor, G.~K.}} \yr{1969}  \at{Computation of the energy spectrum
+  in homogeneous two-dimensional turbulence}.  \jt{Phys. Fluids}  \bvol{12},
+  \pg{II--233}.
+
+\bibitem[Biglari {\em et~al.\/}(1989)Biglari, Diamond \&
+  Rosenbluth]{Biglari1989}
+{\sc \au{Biglari, H.}, \au{Diamond, P.~H.} \& \au{Rosenbluth, M.~N.}} \yr{1989}
+   \at{Toroidal ion-pressure-gradient-driven drift instabilities and transport
+  revisited}.  \jt{Phys. Fluids B}  \bvol{1},  \pg{109}.
+
+\bibitem[Boxer {\em et~al.\/}(2010)Boxer, Bergmann, Ellsworth, Garnier, Kesner,
+  Mauel \& Woskov]{BoxerLDX2010}
+{\sc \au{Boxer, A.~C.}, \au{Bergmann, R.}, \au{Ellsworth, J.~L.}, \au{Garnier,
+  D.~T.}, \au{Kesner, J.}, \au{Mauel, M.~E.} \& \au{Woskov, P.}} \yr{2010}
+  \at{Turbulent inward pinch of plasma confined by a levitated dipole magnet}.
+  \jt{Nat. Phys.}  \bvol{6},  \pg{207}.
+
+\bibitem[Candy \& Waltz(2006)]{CandyWaltz2006}
+{\sc \au{Candy, J.} \& \au{Waltz, R.~E.}} \yr{2006}  \at{Velocity-space
+  resolution, entropy production, and upwind dissipation in {E}ulerian
+  gyrokinetic simulations}.  \jt{Phys. Plasmas}  \bvol{13},  \pg{032310}.
+
+\bibitem[Clarke {\em et~al.\/}(2026)Clarke, Schekochihin, Adkins, Ivanov,
+  Barnes, Hosking \& Squire]{ClarkeUnpub}
+{\sc \au{Clarke, W.~A.}, \au{Schekochihin, A.~A.}, \au{Adkins, T.}, \au{Ivanov,
+  P.~G.}, \au{Barnes, M.~A.}, \au{Hosking, D.~N.} \& \au{Squire, J.}} \yr{2026}
+  Transitions from high to low transport and spontaneous imbalance in
+  interchange-driven {A}lfv\'enic turbulence. In preparation.
+
+\bibitem[Dimits {\em et~al.\/}(2000)Dimits, Bateman, Beer, Cohen, Dorland,
+  Hammett, Kim, Kinsey, Kotschenreuther, Kritz, Lao, Mandrekas, Nevins, Parker,
+  Redd, Shumaker, Sydora \& Weiland]{Dimits2000}
+{\sc \au{Dimits, A.~M.}, \au{Bateman, G.}, \au{Beer, M.~A.}, \au{Cohen, B.~I.},
+  \au{Dorland, W.}, \au{Hammett, G.~W.}, \au{Kim, C.}, \au{Kinsey, J.~E.},
+  \au{Kotschenreuther, M.}, \au{Kritz, A.~H.}, \au{Lao, L.~L.}, \au{Mandrekas,
+  J.}, \au{Nevins, W.~M.}, \au{Parker, S.~E.}, \au{Redd, A.~J.}, \au{Shumaker,
+  D.~E.}, \au{Sydora, R.} \& \au{Weiland, J.}} \yr{2000}  \at{Comparisons and
+  physics basis of tokamak transport models and turbulence simulations}.
+  \jt{Phys. Plasmas}  \bvol{7},  \pg{969}.
+
+\bibitem[Dorland \& Hammett(1993)]{Dorland1993}
+{\sc \au{Dorland, W.} \& \au{Hammett, G.~W.}} \yr{1993}  \at{Gyrofluid
+  turbulence models with kinetic effects}.  \jt{Phys. Fluids B}  \bvol{5},
+  \pg{812}.
+
+\bibitem[Fj{\o}rtoft(1953)]{Fjortoft1953}
+{\sc \au{Fj{\o}rtoft, R.}} \yr{1953}  \at{On the changes in the spectral
+  distribution of kinetic energy for two-dimensional non-divergent flow}.
+  \jt{Tellus}  \bvol{5},  \pg{225}.
+
+\bibitem[Hallenbert \& Plunk(2021)]{Hallenbert_Plunk_2021}
+{\sc \au{Hallenbert, A.} \& \au{Plunk, G.~G.}} \yr{2021}  \at{Predicting the
+  {D}imits shift through reduced mode tertiary instability analysis in a
+  strongly driven gyrokinetic fluid limit}.  \jt{Journal of Plasma Physics}
+  \bvol{87}~(5),  \pg{905870508}.
+
+\bibitem[Hasegawa \& Mima(1978)]{HasegawaMima1978}
+{\sc \au{Hasegawa, A.} \& \au{Mima, K.}} \yr{1978}
+  \at{Pseudo-three-dimensional turbulence in magnetized nonuniform plasma}.
+  \jt{Phys. Fluids}  \bvol{21},  \pg{87}.
+
+\bibitem[Helander(2014)]{Helander2014}
+{\sc \au{Helander, P.}} \yr{2014}  \at{Microstability of magnetically confined
+  electron-positron plasmas}.  \jt{Phys. Rev. Lett.}  \bvol{113},  \pg{135003}.
+
+\bibitem[Helander(2017)]{Helander2017}
+{\sc \au{Helander, P.}} \yr{2017}  \at{Available energy and ground states of
+  collisionless plasmas}.  \jt{J. Plasma Phys.}  \bvol{83}~(4),
+  \pg{715830401},  \arxiv{arXiv: 1706.05219}.
+
+\bibitem[Helander \& Connor(2016)]{HelanderConnor2016}
+{\sc \au{Helander, P.} \& \au{Connor, J.~W.}} \yr{2016}  \at{Gyrokinetic
+  stability theory of electron--positron plasmas}.  \jt{J. Plasma Phys.}
+  \bvol{82}~(3),  \pg{905820301},  \arxiv{arXiv: 1606.04656}.
+
+\bibitem[Helander {\em et~al.\/}(2011)Helander, Mishchenko, Kleiber \&
+  Xanthopoulos]{Helander2011}
+{\sc \au{Helander, P.}, \au{Mishchenko, A.}, \au{Kleiber, R.} \&
+  \au{Xanthopoulos, P.}} \yr{2011}  \at{Oscillations of zonal flows in
+  stellarators}.  \jt{Plasma Phys. Control. Fusion}  \bvol{53},  \pg{054006}.
+
+\bibitem[Helander {\em et~al.\/}(2013)Helander, Proll \& Plunk]{Helander2013}
+{\sc \au{Helander, P.}, \au{Proll, J. H.~E.} \& \au{Plunk, G.~G.}} \yr{2013}
+  \at{Collisionless microinstabilities in stellarators. {I}. {A}nalytical
+  theory of trapped-particle modes}.  \jt{Phys. Plasmas}  \bvol{20},
+  \pg{122505}.
+
+\bibitem[Hoffmann {\em et~al.\/}(2023)Hoffmann, Frei \& Ricci]{Hoffmann2023}
+{\sc \au{Hoffmann, A. C.~D.}, \au{Frei, B.~J.} \& \au{Ricci, P.}} \yr{2023}
+  \at{Gyrokinetic simulations of plasma turbulence in a {Z}-pinch using a
+  moment-based approach and advanced collision operators}.  \jt{J. Plasma
+  Phys.}  \bvol{89}~(2),  \pg{905890214}.
+
+\bibitem[Isichenko {\em et~al.\/}(1995)Isichenko, Gruzinov \&
+  Diamond]{Isichenko1995}
+{\sc \au{Isichenko, M.~B.}, \au{Gruzinov, A.~V.} \& \au{Diamond, P.~H.}}
+  \yr{1995}  \at{Invariant measure and turbulent pinch in tokamaks}.  \jt{Phys.
+  Rev. Lett.}  \bvol{74},  \pg{4436}.
+
+\bibitem[Isichenko {\em et~al.\/}(1996)Isichenko, Gruzinov, Diamond \&
+  Yushmanov]{Isichenko1996}
+{\sc \au{Isichenko, M.~B.}, \au{Gruzinov, A.~V.}, \au{Diamond, P.~H.} \&
+  \au{Yushmanov, P.~N.}} \yr{1996}  \at{Anomalous pinch effect and energy
+  exchange in tokamaks}.  \jt{Phys. Plasmas}  \bvol{3},  \pg{1916}.
+
+\bibitem[Ivanov \& Adkins(2023)]{IvanovAdkins2023}
+{\sc \au{Ivanov, P.~G.} \& \au{Adkins, T.}} \yr{2023}  \at{An analytical form
+  of the dispersion function for local linear gyrokinetics in a curved magnetic
+  field}.  \jt{Journal of Plasma Physics}  \bvol{89},  \pg{905890211}.
+
+\bibitem[Ivanov {\em et~al.\/}(2020)Ivanov, Schekochihin, Dorland, Field \&
+  Parra]{Ivanov2020}
+{\sc \au{Ivanov, P.~G.}, \au{Schekochihin, A.~A.}, \au{Dorland, W.}, \au{Field,
+  A.~R.} \& \au{Parra, F.~I.}} \yr{2020}  \at{Zonally dominated dynamics and
+  {D}imits threshold in curvature-driven {ITG} turbulence}.  \jt{J. Plasma
+  Phys.}  \bvol{86}~(5),  \pg{855860502}.
+
+\bibitem[Jenko {\em et~al.\/}(2000)Jenko, Dorland, Kotschenreuther \&
+  Rogers]{Jenko2000}
+{\sc \au{Jenko, F.}, \au{Dorland, W.}, \au{Kotschenreuther, M.} \& \au{Rogers,
+  B.~N.}} \yr{2000}  \at{Electron temperature gradient driven turbulence}.
+  \jt{Phys. Plasmas}  \bvol{7},  \pg{1904}.
+
+\bibitem[Kennedy \& Helander(2021{\natexlab{{\em a\/}}})]{KennedyHelander2021a}
+{\sc \au{Kennedy, D.} \& \au{Helander, P.}} \yr{2021{\natexlab{{\em a\/}}}}
+  \at{Coulomb collisions in strongly anisotropic plasmas {I}. {C}yclotron
+  cooling in electron--ion plasmas}.  \jt{J. Plasma Phys.}  \bvol{87},
+  \pg{905870107}.
+
+\bibitem[Kennedy \& Helander(2021{\natexlab{{\em b\/}}})]{KennedyHelander2021}
+{\sc \au{Kennedy, D.} \& \au{Helander, P.}} \yr{2021{\natexlab{{\em b\/}}}}
+  \at{Coulomb collisions in strongly anisotropic plasmas {II}. {C}yclotron
+  cooling in laboratory pair plasmas}.  \jt{J. Plasma Phys.}  \bvol{87},
+  \pg{905870106}.
+
+\bibitem[Kennedy \& Mishchenko(2019)]{KennedyMishchenko2019}
+{\sc \au{Kennedy, D.} \& \au{Mishchenko, A.}} \yr{2019}  \at{Local gyrokinetic
+  stability theory of plasmas of arbitrary degree of neutrality}.  \jt{J.
+  Plasma Phys.}  \bvol{85},  \pg{905850502}.
+
+\bibitem[Kennedy {\em et~al.\/}(2018)Kennedy, Mishchenko, Xanthopoulos \&
+  Helander]{Kennedy2018}
+{\sc \au{Kennedy, D.}, \au{Mishchenko, A.}, \au{Xanthopoulos, P.} \&
+  \au{Helander, P.}} \yr{2018}  \at{Linear electrostatic gyrokinetics for
+  electron--positron plasmas}.  \jt{J. Plasma Phys.}  \bvol{84},
+  \pg{905840606}.
+
+\bibitem[Kennedy {\em et~al.\/}(2020)Kennedy, Mishchenko, Xanthopoulos,
+  Helander, Ba{\~n}{\'o}n~Navarro \& G\"orler]{Kennedy2020}
+{\sc \au{Kennedy, D.}, \au{Mishchenko, A.}, \au{Xanthopoulos, P.},
+  \au{Helander, P.}, \au{Ba{\~n}{\'o}n~Navarro, A.} \& \au{G\"orler, T.}}
+  \yr{2020}  \at{Linear gyrokinetics of electron--positron plasmas in closed
+  field-line systems}.  \jt{J. Plasma Phys.}  \bvol{86},  \pg{905860208}.
+
+\bibitem[Kesner \& Hastie(2002)]{KesnerHastie2002}
+{\sc \au{Kesner, J.} \& \au{Hastie, R.~J.}} \yr{2002}  \at{Electrostatic drift
+  modes in a closed field line configuration}.  \jt{Phys. Plasmas}  \bvol{9},
+  \pg{395--400}.
+
+\bibitem[Kesner {\em et~al.\/}(2001)Kesner, Simakov, Garnier, Catto, Hastie,
+  Krasheninnikov, Mauel, Pedersen \& Ramos]{Kesner2001}
+{\sc \au{Kesner, J.}, \au{Simakov, A.~N.}, \au{Garnier, D.~T.}, \au{Catto,
+  P.~J.}, \au{Hastie, R.~J.}, \au{Krasheninnikov, S.~I.}, \au{Mauel, M.~E.},
+  \au{Pedersen, T.~S.} \& \au{Ramos, J.~J.}} \yr{2001}  \at{Dipole equilibrium
+  and stability}.  \jt{Nucl. Fusion}  \bvol{41},  \pg{301}.
+
+\bibitem[Kingsbury \& Waltz(1994)]{Kingsbury1994}
+{\sc \au{Kingsbury, O.~T.} \& \au{Waltz, R.~E.}} \yr{1994}  \at{Numerical
+  simulation of drift waves and trapped ion modes}.  \jt{Phys. Plasmas}
+  \bvol{1},  \pg{2319}.
+
+\bibitem[Kobayashi \& Rogers(2012)]{KobayashiRogers2012}
+{\sc \au{Kobayashi, S.} \& \au{Rogers, B.~N.}} \yr{2012}  \at{The quench rule,
+  dimits shift, and eigenmode localization by small-scale zonal flows}.
+  \jt{Phys. Plasmas}  \bvol{19},  \pg{012315}.
+
+\bibitem[Kobayashi {\em et~al.\/}(2009)Kobayashi, Rogers \&
+  Dorland]{Kobayashi2009}
+{\sc \au{Kobayashi, S.}, \au{Rogers, B.~N.} \& \au{Dorland, W.}} \yr{2009}
+  \at{Gyrokinetic simulations of turbulent transport in a ring dipole plasma}.
+  \jt{Phys. Rev. Lett.}  \bvol{103},  \pg{055003}.
+
+\bibitem[Kobayashi {\em et~al.\/}(2010)Kobayashi, Rogers \&
+  Dorland]{Kobayashi2010}
+{\sc \au{Kobayashi, S.}, \au{Rogers, B.~N.} \& \au{Dorland, W.}} \yr{2010}
+  \at{Particle pinch in gyrokinetic simulations of closed field-line systems}.
+  \jt{Phys. Rev. Lett.}  \bvol{105},  \pg{235004}.
+
+\bibitem[Kraichnan(1967)]{Kraichnan1967}
+{\sc \au{Kraichnan, R.~H.}} \yr{1967}  \at{Inertial ranges in two-dimensional
+  turbulence}.  \jt{Phys. Fluids}  \bvol{10},  \pg{1417}.
+
+\bibitem[Krommes \& Hu(1994)]{KrommesHu1994}
+{\sc \au{Krommes, J.~A.} \& \au{Hu, G.}} \yr{1994}  \at{The role of dissipation
+  in the theory and simulations of homogeneous plasma turbulence, and
+  resolution of the entropy paradox}.  \jt{Phys. Plasmas}  \bvol{1},
+  \pg{3211}.
+
+\bibitem[Mishchenko {\em et~al.\/}(2023)Mishchenko, Kennedy, Helander,
+  K\"onies, Plunk, Xanthopoulos \& Zocco]{Mishchenko2023}
+{\sc \au{Mishchenko, A.}, \au{Kennedy, D.}, \au{Helander, P.}, \au{K\"onies,
+  A.}, \au{Plunk, G.~G.}, \au{Xanthopoulos, P.} \& \au{Zocco, A.}} \yr{2023}
+  \at{Gyrokinetic applications in electron--positron and non-neutral plasmas}.
+  \jt{J. Plasma Phys.}  \bvol{89}~(4),  \pg{935890403}.
+
+\bibitem[Mishchenko {\em et~al.\/}(2018{\natexlab{{\em a\/}}})Mishchenko, Plunk
+  \& Helander]{MPH2018}
+{\sc \au{Mishchenko, A.}, \au{Plunk, G.~G.} \& \au{Helander, P.}}
+  \yr{2018{\natexlab{{\em a\/}}}}  \at{Electrostatic stability of
+  electron--positron plasmas in dipole geometry}.  \jt{J. Plasma Phys.}
+  \bvol{84}~(2),  \pg{905840201},  \arxiv{arXiv: 1711.08021}.
+
+\bibitem[Mishchenko {\em et~al.\/}(2018{\natexlab{{\em b\/}}})Mishchenko,
+  Zocco, Helander \& K{\"{o}}nies]{Mishchenko2018}
+{\sc \au{Mishchenko, A.}, \au{Zocco, A.}, \au{Helander, P.} \&
+  \au{K{\"{o}}nies, A.}} \yr{2018{\natexlab{{\em b\/}}}}  \at{{Gyrokinetic
+  stability of electron--positron--ion plasmas}}.  \jt{Journal of Plasma
+  Physics}  \bvol{84}~(01),  \pg{905840116}.
+
+\bibitem[Morel {\em et~al.\/}(2011)Morel, Ba{\~n}{\'o}n~Navarro, Albrecht-Marc,
+  Carati, Merz, G{\"o}rler \& Jenko]{Morel2011}
+{\sc \au{Morel, P.}, \au{Ba{\~n}{\'o}n~Navarro, A.}, \au{Albrecht-Marc, M.},
+  \au{Carati, D.}, \au{Merz, F.}, \au{G{\"o}rler, T.} \& \au{Jenko, F.}}
+  \yr{2011}  \at{Gyrokinetic large eddy simulations}.  \jt{Phys. Plasmas}
+  \bvol{18},  \pg{072301}.
+
+\bibitem[Nakata {\em et~al.\/}(2010)Nakata, Watanabe, Sugama \&
+  Horton]{Nakata2010}
+{\sc \au{Nakata, M.}, \au{Watanabe, T.-H.}, \au{Sugama, H.} \& \au{Horton, W.}}
+  \yr{2010}  \at{Formation of coherent vortex streets and transport reduction
+  in electron temperature gradient driven turbulence}.  \jt{Phys. Plasmas}
+  \bvol{17},  \pg{042306}.
+
+\bibitem[Pedersen {\em et~al.\/}(2012)]{Pedersen2012}
+{\sc \au{Pedersen, T.~S.} \& \au{others}} \yr{2012}  \at{Plans for the creation
+  and studies of electron--positron plasmas in a stellarator}.  \jt{New J.
+  Phys.}  \bvol{14},  \pg{035010}.
+
+\bibitem[Plunk {\em et~al.\/}(2010)Plunk, Cowley, Schekochihin \&
+  Tatsuno]{Plunk2010}
+{\sc \au{Plunk, G.~G.}, \au{Cowley, S.~C.}, \au{Schekochihin, A.~A.} \&
+  \au{Tatsuno, T.}} \yr{2010}  \at{Two-dimensional gyrokinetic turbulence}.
+  \jt{J. Fluid Mech.}  \bvol{664},  \pg{407}.
+
+\bibitem[Plunk \& Tatsuno(2011)]{PlunkTatsuno2011}
+{\sc \au{Plunk, G.~G.} \& \au{Tatsuno, T.}} \yr{2011}  \at{Energy transfer and
+  dual cascade in kinetic magnetized plasma turbulence}.  \jt{Phys. Rev. Lett.}
+   \bvol{106},  \pg{165003}.
+
+\bibitem[Plunk {\em et~al.\/}(2012)Plunk, Tatsuno \& Dorland]{Plunk2012}
+{\sc \au{Plunk, G.~G.}, \au{Tatsuno, T.} \& \au{Dorland, W.}} \yr{2012}
+  \at{Considering fluctuation energy as a measure of gyrokinetic turbulence}.
+  \jt{New J. Phys.}  \bvol{14},  \pg{103030}.
+
+\bibitem[Proll {\em et~al.\/}(2012)Proll, Helander, Connor \& Plunk]{Proll2012}
+{\sc \au{Proll, J. H.~E.}, \au{Helander, P.}, \au{Connor, J.~W.} \& \au{Plunk,
+  G.~G.}} \yr{2012}  \at{Resilience of quasi-isodynamic stellarators against
+  trapped-particle instabilities}.  \jt{Phys. Rev. Lett.}  \bvol{108},
+  \pg{245002}.
+
+\bibitem[Ricci {\em et~al.\/}(2006)Ricci, Rogers, Dorland \& Barnes]{Ricci2006}
+{\sc \au{Ricci, P.}, \au{Rogers, B.~N.}, \au{Dorland, W.} \& \au{Barnes, M.}}
+  \yr{2006}  \at{Gyrokinetic linear theory of the entropy mode in a {Z} pinch}.
+   \jt{Phys. Plasmas}  \bvol{13},  \pg{062102}.
+
+\bibitem[Rogers {\em et~al.\/}(2000)Rogers, Dorland \&
+  Kotschenreuther]{Rogers2000}
+{\sc \au{Rogers, B.~N.}, \au{Dorland, W.} \& \au{Kotschenreuther, M.}}
+  \yr{2000}  \at{Generation and stability of zonal flows in
+  ion-temperature-gradient mode turbulence}.  \jt{Phys. Rev. Lett.}  \bvol{85},
+   \pg{5336}.
+
+\bibitem[Roman {\em et~al.\/}(2010)Roman, Kammerer, Merz \& Jenko]{Roman2010}
+{\sc \au{Roman, J.~E.}, \au{Kammerer, M.}, \au{Merz, F.} \& \au{Jenko, F.}}
+  \yr{2010}  \at{Fast eigenvalue calculations in a massively parallel plasma
+  turbulence code}.  \jt{Parallel Comput.}  \bvol{36},  \pg{339}.
+
+\bibitem[Saitoh {\em et~al.\/}(2011)Saitoh, Yoshida, Morikawa, Yano, Mizushima,
+  Ogawa, Furukawa, Kawai, Harima, Kawazura, Kaneko, Tadachi, Emoto, Kobayashi,
+  Sugiura \& Vogel]{Saitoh2011}
+{\sc \au{Saitoh, H.}, \au{Yoshida, Z.}, \au{Morikawa, J.}, \au{Yano, Y.},
+  \au{Mizushima, T.}, \au{Ogawa, Y.}, \au{Furukawa, M.}, \au{Kawai, Y.},
+  \au{Harima, K.}, \au{Kawazura, Y.}, \au{Kaneko, Y.}, \au{Tadachi, K.},
+  \au{Emoto, S.}, \au{Kobayashi, M.}, \au{Sugiura, T.} \& \au{Vogel, G.}}
+  \yr{2011}  \at{High-$\beta$ plasma formation and observation of peaked
+  density profile in {RT-1}}.  \jt{Nucl. Fusion}  \bvol{51},  \pg{063034}.
+
+\bibitem[Schekochihin {\em et~al.\/}(2008)Schekochihin, Cowley, Dorland,
+  Hammett, Howes, Plunk, Quataert \& Tatsuno]{Schekochihin2008}
+{\sc \au{Schekochihin, A.~A.}, \au{Cowley, S.~C.}, \au{Dorland, W.},
+  \au{Hammett, G.~W.}, \au{Howes, G.~G.}, \au{Plunk, G.~G.}, \au{Quataert, E.}
+  \& \au{Tatsuno, T.}} \yr{2008}  \at{Gyrokinetic turbulence: a nonlinear route
+  to dissipation through phase space}.  \jt{Plasma Phys. Control. Fusion}
+  \bvol{50},  \pg{124024}.
+
+\bibitem[Simakov {\em et~al.\/}(2001)Simakov, Catto \& Hastie]{Simakov2001}
+{\sc \au{Simakov, A.~N.}, \au{Catto, P.~J.} \& \au{Hastie, R.~J.}} \yr{2001}
+  \at{Kinetic stability of electrostatic plasma modes in a dipolar magnetic
+  field}.  \jt{Phys. Plasmas}  \bvol{8},  \pg{4414}.
+
+\bibitem[St-Onge(2017)]{StOnge2017}
+{\sc \au{St-Onge, D.~A.}} \yr{2017}  \at{On non-local energy transfer via zonal
+  flow in the {D}imits shift}.  \jt{J. Plasma Phys.}  \bvol{83}~(5),
+  \pg{905830504}.
+
+\bibitem[Stoneking {\em et~al.\/}(2020)]{Stoneking2020}
+{\sc \au{Stoneking, M.~R.} \& \au{others}} \yr{2020}  \at{A new frontier in
+  laboratory physics: magnetized electron--positron plasmas}.  \jt{J. Plasma
+  Phys.}  \bvol{86},  \pg{155860601}.
+
+\bibitem[Sugama(1999)]{Sugama1999}
+{\sc \au{Sugama, H.}} \yr{1999}  \at{Damping of toroidal ion temperature
+  gradient modes}.  \jt{Phys. Plasmas}  \bvol{6},  \pg{3527}.
+
+\bibitem[Sugama {\em et~al.\/}(1996)Sugama, Okamoto, Horton \&
+  Wakatani]{Sugama1996}
+{\sc \au{Sugama, H.}, \au{Okamoto, M.}, \au{Horton, W.} \& \au{Wakatani, M.}}
+  \yr{1996}  \at{Transport processes and entropy production in toroidal plasmas
+  with gyrokinetic electromagnetic turbulence}.  \jt{Phys. Plasmas}  \bvol{3},
+  \pg{2379}.
+
+\bibitem[Waltz {\em et~al.\/}(1994)Waltz, Kerbel \& Milovich]{Waltz1994}
+{\sc \au{Waltz, R.~E.}, \au{Kerbel, G.~D.} \& \au{Milovich, J.}} \yr{1994}
+  \at{Toroidal gyro-{L}andau fluid model turbulence simulations in a nonlinear
+  ballooning mode representation with radial modes}.  \jt{Physics of Plasmas}
+  \bvol{1},  \pg{2229}.
+
+\bibitem[Watanabe \& Sugama(2004)]{WatanabeSugama2004}
+{\sc \au{Watanabe, T.-H.} \& \au{Sugama, H.}} \yr{2004}  \at{Kinetic simulation
+  of steady states of ion temperature gradient driven turbulence with weak
+  collisionality}.  \jt{Phys. Plasmas}  \bvol{11},  \pg{1476}.
+
+\bibitem[Yankov(1994)]{Yankov1994}
+{\sc \au{Yankov, V.~V.}} \yr{1994}  \at{The pinch effect explains turbulent
+  transport in tokamaks}.  \jt{JETP Lett.}  \bvol{60},  \pg{171}.
+
+\bibitem[Zhang {\em et~al.\/}(2026)Zhang, Barnes, Schekochihin, Ivanov \&
+  Adkins]{Zhang2026}
+{\sc \au{Zhang, Y.}, \au{Barnes, M.}, \au{Schekochihin, A.~A.}, \au{Ivanov,
+  P.~G.} \& \au{Adkins, T.}} \yr{2026}  \at{High-beta runaway transitions in a
+  fluid model of electromagnetic ion-temperature-gradient turbulence}.
+  \jt{arXiv preprint arXiv:2606.04616} .
+
+\bibitem[Zocco(2017)]{Zocco2017}
+{\sc \au{Zocco, A.}} \yr{2017}  \at{{Slab magnetised non-relativistic low-beta
+  electron--positron plasmas: collisionless heating, linear waves and
+  reconnecting instabilities}}.  \jt{Journal of Plasma Physics}
+  \bvol{83}~(06),  \pg{715830602}.
+
+\end{thebibliography}
